@@ -3,7 +3,8 @@
 **Ezekiel.app** is your intelligent guide for astrology and dream interpretation.  
 It’s a place where ancient cosmic wisdom meets modern technology — to help you better understand yourself, your relationships, and the messages from your inner world.
 
----
+<img width="1207" height="802" alt="eze" src="https://github.com/user-attachments/assets/51e5e3d8-fd1a-456a-aaa1-e9bfb52f1b74" />
+
 
 ## 🌌 What is Ezekiel.app?
 
@@ -18,7 +19,8 @@ It’s designed for anyone who has ever asked:
 
 If you've ever been curious about these questions — this site is for you.
 
----
+<img width="1258" height="768" alt="eze2" src="https://github.com/user-attachments/assets/5845b2d4-3cda-48e4-b869-572e2c96cbf2" />
+
 
 ## 🔮 What You Can Do
 
@@ -50,7 +52,8 @@ Ezekiel helps you align your plans with favorable cosmic timing.
 Curious about what’s happening in the sky on a global level?  
 Explore eclipses, retrogrades, major alignments — and what they mean for the world.
 
----
+<img width="1264" height="580" alt="eze3" src="https://github.com/user-attachments/assets/2128380f-a51c-4558-adca-2c4bd238dbc8" />
+
 
 ## 🌱 Who Is It For?
 
@@ -62,7 +65,6 @@ Explore eclipses, retrogrades, major alignments — and what they mean for the w
 
 You don’t need any prior knowledge — Ezekiel is made to be simple, clear, and insightful.
 
----
 
 ## 💫 Why Use Ezekiel.app?
 
@@ -74,7 +76,8 @@ You don’t need any prior knowledge — Ezekiel is made to be simple, clear, an
 
 Most features are free to explore. Some tools may have premium versions for deeper insights.
 
----
+<img width="1360" height="800" alt="eze4" src="https://github.com/user-attachments/assets/cf07654c-1666-42d6-a563-e74bcd917826" />
+
 
 ## 🧭 Start Exploring
 
@@ -85,7 +88,8 @@ You can begin right away:
 3. Follow the prompts — enter your info or question  
 4. Read your results and come back anytime
 
----
+<img width="962" height="924" alt="eze5" src="https://github.com/user-attachments/assets/45d2559e-3fd9-42b2-9e2f-4ef7ecac06fb" />
+
 
 > Ezekiel is more than a tool.  
 > It's a companion on your journey through the stars, symbols, and self.
