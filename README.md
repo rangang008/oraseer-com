@@ -96,5 +96,5 @@ You can begin right away:
 
 Ready to begin?
 
-🌐 **[ezekiel.app](https://oraseer.com/)** – Your personal astrology & dream guide.
+🌐 **[oraseer.com](https://oraseer.com/)** – Your personal astrology & dream guide.
 
