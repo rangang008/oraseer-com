@@ -63,7 +63,7 @@ Explore eclipses, retrogrades, major alignments — and what they mean for the w
 - Astrologers who need quick, AI-assisted insights  
 - Anyone navigating a big life decision
 
-You don’t need any prior knowledge — Ezekiel is made to be simple, clear, and insightful.
+You don’t need any prior knowledge — oraseer is made to be simple, clear, and insightful.
 
 
 ## 💫 Why Use Ezekiel.app?
@@ -83,7 +83,7 @@ Most features are free to explore. Some tools may have premium versions for deep
 
 You can begin right away:
 
-1. Visit [ezekiel.app](https://ezekiel.app)  
+1. Visit [https://oraseer.com/](https://oraseer.com/)  
 2. Choose a tool: Birth Chart, Forecast, Dream, etc.  
 3. Follow the prompts — enter your info or question  
 4. Read your results and come back anytime
@@ -96,5 +96,5 @@ You can begin right away:
 
 Ready to begin?
 
-🌐 **[ezekiel.app](https://ezekiel.app)** – Your personal astrology & dream guide.
+🌐 **[ezekiel.app](https://oraseer.com/)** – Your personal astrology & dream guide.
 
