@@ -1,4 +1,4 @@
-# ✨ Welcome to Ezekiel.app
+# ✨ Welcome to oraseer.com
 
 **Ezekiel.app** is your intelligent guide for astrology and dream interpretation.  
 It’s a place where ancient cosmic wisdom meets modern technology — to help you better understand yourself, your relationships, and the messages from your inner world.
